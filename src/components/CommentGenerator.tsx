@@ -12,7 +12,7 @@ import { History, HelpCircle } from 'lucide-react';
 const defaultCommentData: CommentData = {
   platform: 'youtube',
   profileName: 'FakCom',
-  profileImageUrl: 'https://i.redd.it/kb2b4j68av6d1.png',
+  profileImageUrl: 'https://i.postimg.cc/VNpb9yhv/kb2b4j68av6d1.png',
   commentText: 'My love is Overflow.ing!',
   timeAgo: '1 hours ago',
   likeCount: 69,
