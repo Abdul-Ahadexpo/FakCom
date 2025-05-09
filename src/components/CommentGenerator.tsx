@@ -11,14 +11,14 @@ import { History, HelpCircle } from 'lucide-react';
 
 const defaultCommentData: CommentData = {
   platform: 'youtube',
-  profileName: 'JohnDoe',
-  profileImageUrl: 'https://i.pravatar.cc/150?img=3',
-  commentText: 'This is an amazing video! Thanks for sharing your knowledge.',
-  timeAgo: '3 hours ago',
-  likeCount: 42,
+  profileName: 'FakCom',
+  profileImageUrl: 'https://i.redd.it/kb2b4j68av6d1.png',
+  commentText: 'My love is Overflow.ing!',
+  timeAgo: '1 hours ago',
+  likeCount: 69,
   replyCount: 5,
   isVerified: false,
-  includeWatermark: true
+  includeWatermark: false
 };
 
 const CommentGenerator: React.FC = () => {
